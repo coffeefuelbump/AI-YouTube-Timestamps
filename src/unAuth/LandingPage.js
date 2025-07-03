@@ -6,6 +6,7 @@ import Bumpups from "./components/Bumpups";
 import Timestamp from "./timestampcomp/Timestamp";
 import Footer from "./components/Footer";
 import PlaylistCTA from "./components/PlaylistCTA";
+import HelpForm from "./components/HelpForm";
 
 
 const LandingPage = () => {
@@ -23,6 +24,8 @@ const LandingPage = () => {
         <Bumpups />
         <div className="section-divider" />
         <PlaylistCTA />
+        <div className="section-divider" />
+        <HelpForm />
         <Footer />
       </div>
     </div>
