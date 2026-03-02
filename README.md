@@ -1,5 +1,7 @@
 # How to Create an Easy App with No Coding Experience 🚀
 
+Yoyo, this is me Shrey adding code to my first branch in my first Github learning repo. Onwards and upwards from here!
+
 In this series, we’ll go over creating real software with AI — and I’ll teach it as if you have zero coding experience.  
 > ❓ Did you download this code and run into errors? [Watch this troubleshooting video](https://youtu.be/ByRf8fsWE0Q)
 
