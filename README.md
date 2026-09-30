@@ -12,7 +12,7 @@ In this series, we’ll go over creating real software with AI — and I’ll te
 
 ## 📝 Lessons
 
-All lessons are available on YouTube. Click any title to watch:
+All lessons are available on YouTube.
 > 👍 **Like & Subscribe:** It’s free! 🤠
 
 1. 🧱 **Tech Stack (10 min):** [Watch on YouTube](https://youtu.be/ZFtoJIQdmC4)  
@@ -92,7 +92,7 @@ Make sure to never commit your `.env`—it’s included in `.gitignore` by defau
 
 ---
 
-# 🙌 Follow Me
+# 🙌 Follow Me BITCHESSSsssssss
 
 Stay up-to-date with new tutorials, tips, and behind-the-scenes:
 
@@ -102,7 +102,7 @@ Stay up-to-date with new tutorials, tips, and behind-the-scenes:
 
 ---
 
-## ☕ About Builder’s Console Log
+## ☕ About Builder’s Console Log and his thotsssssssss
 
 [![What is Builder’s Console Log?](https://img.youtube.com/vi/rs1GMv_akeE/maxresdefault.jpg)](https://youtu.be/rs1GMv_akeE)  
 *Learn what the Builder’s Console Log community is all about.*
