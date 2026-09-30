@@ -102,7 +102,7 @@ Stay up-to-date with new tutorials, tips, and behind-the-scenes:
 
 ---
 
-## ☕ About Builder’s Console Log and his hoessssss
+## ☕ About Builder’s Console Log and his thotsssssssss
 
 [![What is Builder’s Console Log?](https://img.youtube.com/vi/rs1GMv_akeE/maxresdefault.jpg)](https://youtu.be/rs1GMv_akeE)  
 *Learn what the Builder’s Console Log community is all about.*
