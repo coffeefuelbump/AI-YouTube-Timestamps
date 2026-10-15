@@ -28,7 +28,6 @@ All lessons are available on YouTube. Click any title to watch:
 
 ---
 
-
 ## 🛠️ Tech Stack
 
 - ☁️ **Firebase**  
