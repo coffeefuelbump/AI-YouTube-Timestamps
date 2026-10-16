@@ -12,6 +12,8 @@ In this series, we’ll go over creating real software with AI — and I’ll te
 
 ## 📝 Lessons
 
+
+
 All lessons are available on YouTube. Click any title to watch:
 > 👍 **Like & Subscribe:** It’s free! 🤠
 
@@ -27,7 +29,6 @@ All lessons are available on YouTube. Click any title to watch:
 > ℹ️ **Tip:** To open multiple links, right-click each link and choose “Open link in new tab.”
 
 ---
-
 
 ## 🛠️ Tech Stack
 
@@ -117,3 +118,8 @@ Join the **Builder’s Console Log** community on Skool:
 
 ---
 
+
+## testing123
+## 12345
+## add by mybranch
+## testing
